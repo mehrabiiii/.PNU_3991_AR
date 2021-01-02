@@ -12,7 +12,7 @@
 ###ریحانه محرابی مقدم
  
 ---
--  [PNU_3991_AR](https://github.com/mehrabiiii/PNU_3991_AR/blob/gh-pages/README.md)
+-  [PNU_3991_AR](https://github.com/mehrabiiii/PNU_3991_AR/https://github.com/mehrabiiii/mehrabiiii-PNU_3991_AR)
 - [حساب گیت هاب](https://github.com/mehrabiiii)
 
 - [رزومه](https://mehrabiiii.github.io/Resume/https://github.com/mehrabiiii/resume.github.io)
