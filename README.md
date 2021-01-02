@@ -15,9 +15,9 @@
 -  [PNU_3991_AR](https://github.com/mehrabiiii/PNU_3991_AR/blob/gh-pages/README.md)
 - [حساب گیت هاب](https://github.com/mehrabiiii)
 
-- [رزومه](https://mehrabiiii.github.io/Resume/)
+- [رزومه](https://mehrabiiii.github.io/Resume/https://github.com/mehrabiiii/resume.github.io)
 
-- [SOP](https://mehrabiiii.github.io/MySop/)
+- [SOP](https://mehrabiiii.github.io/MySop/https://github.com/mehrabiiii/mehrabiiii.github.io-sop-)
 
 ------------------
 ## Winter Semester Courses 1399/2020
