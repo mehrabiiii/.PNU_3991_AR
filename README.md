@@ -12,12 +12,6 @@
 ###ریحانه محرابی مقدم
  
 ---
--[PNU_3991_AR](https://github.com/mehrabiiii/PNU_3991_AR/https://github.com/mehrabiiii/mehrabiiii-PNU_3991_AR)
-- [حساب گیت هاب](https://github.com/mehrabiiii)
-
--[رزومه](https://mehrabiiii.github.io/Resume/https://github.com/mehrabiiii/resume.github.io)
-
--[SOP](https://mehrabiiii.github.io/MySop/https://github.com/mehrabiiii/mehrabiiii.github.io-sop-)
 
 -[certificate](https://github.com/mehrabiiii/certificate-)
 
@@ -27,7 +21,8 @@
 
 -[GitHub](https://github.com/mehrabiiii)
 
--[PNU_3991_AR](https://github.com/mehrabiiii/mehrabi-PNU_3991_AR/https://github.com/mehrabiiii/mehrabiiii-PNU_3991_AR)
+-[PNU_3991_AR](https://github.com/mehrabiiii/mehrabiiii-PNU_3991_AR/https://github.com/mehrabiiii/mehrabiiii-PNU_3991_AR)
+
 -------------
 ## Winter Semester Courses 1399/2020
 
